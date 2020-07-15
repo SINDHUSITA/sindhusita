@@ -1,4 +1,4 @@
-### Hey Hi!👋 I am Sindhu and Welcome to my GitHub profile.
+### Hi!👋 I am Sindhu and Welcome to my GitHub profile.
 
 - 🔭 I’m currently working as a Full Stack Developer in Cardlytics.
 - 🌱 I’m currently learning Web App development, WebRTC and Machine Learning.
