@@ -7,4 +7,5 @@
 - 💬 Ask me about anything. I am really good with Google search.:wink:
 - 📫 How to reach me: sindhusita.11@gmail.com
 - ⚡ Fun fact: The second ~~clmsiest~~ ~~clumseest~~ clumsiest living being on the planet next to Penguins.:penguin:
+
 [![Sindhu's Github Stats](https://github-readme-stats.vercel.app/api?username=sindhusita&show_icons=true&count_private=true&theme=slateorange)](https://github.com/sindhusita/github-readme-stats)
